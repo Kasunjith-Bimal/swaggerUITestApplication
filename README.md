@@ -4,7 +4,9 @@ Asp .net Core 2.0
 
 ```Database name - "YourDatabaseName"```
 
-### Change Coonection String According Your 
+### Change Coonection String According Your Sql Server
+
+### change Statup.cs file'
 
 ```var connectionString = "Data Source=YourServerName;Initial Catalog=YourDatabaseName;Integrated Security=True";```
 ```services.AddDbContext<StudentDbContext>(options => options.UseSqlServer(connectionString));```
