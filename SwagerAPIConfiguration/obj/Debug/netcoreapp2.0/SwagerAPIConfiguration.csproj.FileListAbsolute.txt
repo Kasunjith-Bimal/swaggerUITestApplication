@@ -1,0 +1,13 @@
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.deps.json
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.runtimeconfig.json
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.runtimeconfig.dev.json
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.dll
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.AssemblyInfoInputs.cache
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.AssemblyInfo.cs
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.pdb
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.dll
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.pdb
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\bin\Debug\netcoreapp2.0\SwagerAPIConfiguration.xml
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.xml
+C:\Users\Rika\source\repos\SwagerAPIConfiguration\SwagerAPIConfiguration\obj\Debug\netcoreapp2.0\SwagerAPIConfiguration.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwagerAPIConfiguration</name>
+    </assembly>
+    <members>
+        <member name="M:SwagerAPIConfiguration.Controllers.ValuesController.Get">
+            <summary>
+            Get All value
+            </summary>
+        </member>
+    </members>
+</doc>
