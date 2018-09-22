@@ -19,4 +19,4 @@ Asp .net Core 2.0
 ### Run Application 
 
 ``` Go localhost:http://localhost:62560/swagger```
-![In a single picture](https://github.com/Kasunjith-Bimal/swaggerUITestApplication/blob/master/Images/Final.png)
+![In a single picture](https://github.com/Kasunjith-Bimal/swaggerUITestApplication/blob/master/Images/Final.jpg)
